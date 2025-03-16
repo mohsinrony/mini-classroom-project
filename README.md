@@ -47,7 +47,7 @@ npm install
 
 (Ensure that you have Node.js and npm installed.)
 
-# Run the project:
+Run the project:
 
 Depending on your setup, you can either:
 
@@ -65,7 +65,7 @@ or,
 npm start
 ```
 
-# Submit Your Grades:
+Submit Your Grades:
 
 - Open the UI in your browser.
 - Interact with the form to submit your own grades on top of the ones provided.
